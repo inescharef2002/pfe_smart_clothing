@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smart-clothing-advisor-2026",
+          "appId": "1:949137189579:android:91c1371a48257fd29a494e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smart-clothing-advisor-2026",
+          "configurations": {
+            "android": "1:949137189579:android:91c1371a48257fd29a494e",
+            "ios": "1:949137189579:ios:842e47f6a2ddd5399a494e",
+            "macos": "1:949137189579:ios:842e47f6a2ddd5399a494e",
+            "web": "1:949137189579:web:ce39a1f5b22a12509a494e",
+            "windows": "1:949137189579:web:691d094d740922219a494e"
+          }
+        }
+      }
+    }
+  }
+}

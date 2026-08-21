@@ -1,0 +1,110 @@
+{
+  "total_analyses": 106,
+  "analyses_today": 70,
+  "last_analysis_date": "2026-06-27",
+  "avg_confidence": 0.591,
+  "min_confidence": 0.0,
+  "max_confidence": 1.0,
+  "confidence_sum": 62.69300000000006,
+  "confidence_high": 58,
+  "confidence_medium": 4,
+  "confidence_low": 44,
+  "cnn_used": 56,
+  "opencv_used": 50,
+  "person_detected": 65,
+  "errors_count": 1,
+  "categories_distribution": {
+    "Robes": 27,
+    "Accessoires": 21,
+    "Pantalons": 12,
+    "Jupes": 11,
+    "T-shirts": 12,
+    "Chemises": 9,
+    "Pulls": 9,
+    "Vestes": 3,
+    "Chaussures": 2
+  },
+  "total_suggestions": 15,
+  "suggestions_today": 0,
+  "weather_suggestions_today": 0,
+  "last_suggestion_date": "2026-06-27",
+  "occasions_distribution": {
+    "météo": 7,
+    "Sport": 1,
+    "Quotidienne": 5,
+    "Weekend": 1,
+    "Travail": 1
+  },
+  "recent_analyses": [
+    {
+      "time": "08:13:02",
+      "categorie": "Robes",
+      "couleur": "Noir",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "08:12:44",
+      "categorie": "Robes",
+      "couleur": "Rose",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "08:12:23",
+      "categorie": "Pantalons",
+      "couleur": "Bleu",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "05:43:41",
+      "categorie": "Robes",
+      "couleur": "Rose",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "05:42:43",
+      "categorie": "Pulls",
+      "couleur": "Bleu marine",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "05:42:31",
+      "categorie": "Robes",
+      "couleur": "Noir",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "05:42:20",
+      "categorie": "Accessoires",
+      "couleur": "Marron foncé",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "05:42:07",
+      "categorie": "Pantalons",
+      "couleur": "Bleu",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "05:35:43",
+      "categorie": "Accessoires",
+      "couleur": "Marron foncé",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    },
+    {
+      "time": "05:35:28",
+      "categorie": "Robes",
+      "couleur": "Rose",
+      "confidence": 0.95,
+      "moteur": "CNN"
+    }
+  ]
+}
